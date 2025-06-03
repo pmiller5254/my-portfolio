@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Portfolio
 
-## Getting Started
+A modern, responsive personal portfolio website built with cutting-edge web technologies to showcase my projects and skills.
 
-First, run the development server:
+## Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Core Technologies
+- **Next.js 14** - React framework for production-grade applications
+- **TypeScript** - For type-safe, maintainable code
+- **React** - UI library for building interactive user interfaces
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Modern Features & Technologies
+- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+- **Framer Motion** - For smooth, professional animations
+- **React Query** - For efficient server state management
+- **Zustand** - Lightweight state management
+- **ESLint & Prettier** - Code quality and formatting
+- **Jest & React Testing Library** - For comprehensive testing
+- **Vercel** - For seamless deployment and hosting
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Development Tools
+- **pnpm** - Fast, disk space efficient package manager
+- **GitHub Actions** - For CI/CD automation
+- **TypeScript** - For enhanced development experience and type safety
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Project Goals
+- Create a performant, accessible, and SEO-friendly portfolio
+- Implement modern web development practices
+- Showcase proficiency with current industry technologies
+- Demonstrate clean code principles and best practices
 
-## Learn More
+## Features (Planned)
+- Responsive design for all devices
+- Dark/Light mode
+- Project showcase with detailed case studies
+- Blog section for technical articles
+- Contact form with email integration
+- Interactive UI elements and animations
+- Performance optimized
+- SEO friendly
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
