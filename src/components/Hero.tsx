@@ -8,11 +8,12 @@ const Hero = () => {
             <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
                 <div className="text-center">
                     <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
-                        Hi, I'm <span className="text-blue-600 dark:text-blue-400">Prince</span>
+                        Hi, I'm <span className="text-blue-600 dark:text-blue-400">Prince Miller</span>
                     </h1>
                     <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300">
-                        A passionate software developer specializing in building exceptional digital experiences.
-                        Currently focused on creating accessible, human-centered products.
+                        A Software Engineer with experience at Google and Bloomberg, specializing in curriculum development,
+                        front-end engineering, and creating accessible digital experiences. Currently focused on building
+                        innovative solutions with React, TypeScript, and Python.
                     </p>
                     <div className="mt-10 flex items-center justify-center gap-x-6">
                         <Link
